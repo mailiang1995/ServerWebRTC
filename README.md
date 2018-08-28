@@ -7,7 +7,7 @@ the WebRTC Server
 
 It requires [node.js](http://nodejs.org/download/)
 
-* git clone https://github.com/mailiang1995/WebRtcServer.git
+* git clone https://github.com/mailiang1995/ServerWebRTC.git
 * cd ProjectRTC/
 * npm install
 * node app.js
