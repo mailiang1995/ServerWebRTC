@@ -1,7 +1,7 @@
 ## WebRTC Server
 
 - Node.js server
-- [Android client](https://github.com/matthewYang92/WebRtcAndroidClient)
+- [Android client](https://github.com/mailiang1995/ClientWebRTC.git)
 
 ## Install
 
